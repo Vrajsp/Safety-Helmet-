@@ -1,7 +1,5 @@
 # Safety-Helmet-⛑
 
-# Smart Safety Helmet for Underground Mine Workers
-
 ![Helmet Prototype](Images/Helmet_Prototype.jpg)
 
 ## Overview
